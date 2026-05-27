@@ -174,3 +174,24 @@ footer {
   background: rgba(0,0,0,0.2);
   backdrop-filter: blur(6px);
 }
+
+/* 🔹 Mejora visual del botón principal */
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* 🔹 Ajuste de tipografía general */
+body {
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+}
