@@ -1,10 +1,18 @@
 # Registro de conflictos
 
-Este archivo se utilizará para documentar los conflictos que surjan durante el desarrollo colaborativo del proyecto.
+## Archivo afectado
 
-Información a registrar:
+css/style.css
 
-- Archivo afectado
-- Integrantes involucrados
-- Descripción del conflicto
-- Solución aplicada
+## Descripción del conflicto
+
+El conflicto ocurrió porque dos ramas modificaron simultáneamente el archivo style.css.
+
+## Solución aplicada
+
+Se revisaron manualmente los estilos de ambas ramas y se combinaron correctamente en un solo archivo.
+
+## Integrantes relacionados
+
+Integrante 2: Aurelio Fabian Paniagua Méndez
+Integrante 3: Ángel Gabriel Alcázar Pavón
